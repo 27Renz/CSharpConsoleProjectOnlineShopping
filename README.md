@@ -1,21 +1,34 @@
-🛒 Online Shopping System (C# Console Application)
-This project is a console-based Online Shopping System built using C# that simulates the basic functionality of an online store. It demonstrates core Object-Oriented Programming (OOP) concepts such as classes, objects, encapsulation, and interaction between multiple system components. The application allows a customer to log in, browse a product catalog, select products, manage a shopping cart, and complete a checkout process, all through a text-based interface.
-The system starts by displaying a menu and loading a predefined list of products, each with a name, price, and available quantity. A customer must log in by providing basic information before they can add products to their shopping cart. Once logged in, the customer can view products, choose items by their product ID, specify quantities, and manage the cart by adding or removing items. During checkout, the system verifies product availability, processes the order by reducing inventory, calculates the total cost, and clears the cart upon successful purchase. An additional admin feature allows authorized users to modify product prices.
-This project is intended for learning and practice purposes, focusing on proper class design, separation of responsibilities, and logical program flow. It provides a clear foundation for understanding how real-world online shopping systems can be modeled using C# in a simple console environment.
+# 🛒 Online Shopping System (C# Console Application)
 
-✨ Features
+This project is a **console-based Online Shopping System developed in C#** that simulates the basic flow of an online purchasing experience. It is designed to demonstrate core **Object-Oriented Programming (OOP)** concepts such as classes, objects, encapsulation, and interaction between multiple system components using a simple text-based interface.
 
-Customer login and logout
-Product catalog display
-Shopping cart management (add/remove items)
-Checkout with stock validation
-Inventory update after purchase
-Admin price modification
+When the application starts, it displays a main menu and loads a predefined list of products, each containing a name, price, and available stock quantity. A customer must log in by entering basic information before accessing shopping features. Once logged in, the customer can browse the product catalog, select products by their product ID, specify quantities, and add them to a shopping cart. The shopping cart allows users to view selected items, remove products, and automatically compute the total cost.
 
-🧠 Concepts Used
+During the checkout process, the system validates product availability to ensure sufficient stock. If the checkout is successful, the order is processed by deducting the purchased quantities from the inventory, clearing the shopping cart, and displaying the total payment. The application also includes an admin feature that allows authorized users to change product prices, demonstrating controlled access and proper data handling.
 
-Object-Oriented Programming (OOP)
-Classes and Objects
-Encapsulation
-Console-based user interaction
-Input validation
+This project is intended for **learning and practice purposes**, focusing on clean class design, separation of responsibilities, and logical program flow. It provides a clear foundation for understanding how real-world online shopping systems can be modeled using C# in a console environment.
+
+---
+
+## ✨ Features
+- Customer login and logout
+- Product catalog display
+- Shopping cart management (add and remove items)
+- Checkout with stock validation
+- Inventory updates after purchase
+- Admin functionality for modifying product prices
+
+---
+
+## 🧠 Concepts Applied
+- Object-Oriented Programming (OOP)
+- Classes and Objects
+- Encapsulation
+- Method interaction
+- Console-based user interface
+- Input validation
+
+---
+
+## 🚀 Purpose
+This project serves as a beginner-friendly example of how an online shopping system works logically and structurally. It can be extended further by adding file storage, databases, user authentication, or a graphical or web-based interface.
