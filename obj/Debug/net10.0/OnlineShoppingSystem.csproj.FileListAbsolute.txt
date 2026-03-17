@@ -1,0 +1,14 @@
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\obj\Debug\net10.0\OnlineShoppingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\obj\Debug\net10.0\OnlineShoppingSystem.AssemblyInfoInputs.cache
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\obj\Debug\net10.0\OnlineShoppingSystem.AssemblyInfo.cs
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\obj\Debug\net10.0\OnlineShoppingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\bin\Debug\net10.0\OnlineShoppingSystem.exe
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\bin\Debug\net10.0\OnlineShoppingSystem.deps.json
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\bin\Debug\net10.0\OnlineShoppingSystem.runtimeconfig.json
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\bin\Debug\net10.0\OnlineShoppingSystem.dll
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\bin\Debug\net10.0\OnlineShoppingSystem.pdb
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\obj\Debug\net10.0\OnlineShoppingSystem.dll
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\obj\Debug\net10.0\refint\OnlineShoppingSystem.dll
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\obj\Debug\net10.0\OnlineShoppingSystem.pdb
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\obj\Debug\net10.0\OnlineShoppingSystem.genruntimeconfig.cache
+C:\Users\Miguel Jamin\Documents\Renz\10-19 Microsoft Learn Achievement\13 C#\13.21 Projects\OnlineShoppingSystem\obj\Debug\net10.0\ref\OnlineShoppingSystem.dll
